@@ -22,3 +22,7 @@ chroma = HPCP.hpcp('bach.wav', norm_frames=True)
 print chroma
 ```
 Consult `HPCP.hpcp?` for more parameters.
+
+
+Copyright (c) 2015 jvbalen / @jvanbalen under the MIT License
+Github: https://github.com/jvbalen/hpcp_notebook
