@@ -9,7 +9,6 @@ HPCP.py relies on three common libraries: Numpy, Scipy (scipy.io, scipy.signal a
 
 ## usage
 
-Command line:
 Run from command line with a filename (wav) as an argument, e.g.:
 ```
 python HPCP.py 'bach.wav'
@@ -25,4 +24,5 @@ Consult `HPCP.hpcp?` for more parameters.
 
 
 Copyright (c) 2015 jvbalen / @jvanbalen under the MIT License
+
 Github: https://github.com/jvbalen/hpcp_notebook
